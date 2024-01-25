@@ -9,7 +9,7 @@ boliviainteligente-OsCODx_vi6U-unsplash.png
 Netflix is one of the most popular media and video streaming platforms.They have over 10000 movies or tv shows available on their platform, as of mid-2021, they have over 222M Subscribers globally.
 This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
 ### Source:
-Please check the description at: Dataset Link
+Please check the description at: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/netflix.csv
 
 ## Feature Information:
 Show_id: Unique ID for every Movie / Tv Show
