@@ -54,3 +54,5 @@ Discussed insights derived from the correlation analysis.
 4. Analysis of actors/directors of different types of shows/movies.
 5. Does Netflix has more focus on TV Shows than movies in recent years?
 6. Understanding what content is available in different countries.
+### Recommendations:
+1. Providing recommendations based on the insights gained from the analysis.
